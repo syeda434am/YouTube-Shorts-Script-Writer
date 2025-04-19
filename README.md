@@ -1,6 +1,9 @@
 # YouTube-Shorts-Script_Writer
 A powerful AI-powered application for generating and exporting YouTube short-video scripts.
 
+## Live Demo
+Deployed prototype: `https://shortsspark.streamlit.app/`
+
 ## Overview
 
 Tube ScriptWriter is a Streamlit-based web application that helps content creators generate video scripts quickly and efficiently using AI. The application allows you to:

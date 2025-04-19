@@ -2,7 +2,7 @@
 A powerful AI-powered application for generating and exporting YouTube short-video scripts.
 
 ## Live Demo
-Deployed prototype: `https://shortsspark.streamlit.app/`
+Deployed prototype: https://shortsspark.streamlit.app/
 
 ## Overview
 
